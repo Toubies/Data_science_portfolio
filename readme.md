@@ -7,3 +7,13 @@ This repository includes all my data science/data analyst projects. The data com
   - Description: This datasets contains criminal/traffic cases for the City and County of Denver from - to -. The data is based on the National Incident Based Reporting System (NIBRS) and it's updated regullary. Data used in this project was downloaded on 6th November 2021
   - Task details: Making the EDA for the data. Checking the most dangerous areas, density for all crimes and specific categories etc.
   - Libraries used: pandas, numpy, matplolib, seaborn, plotly
+- #### Animal classification
+  - Data source: (https://www.kaggle.com/uciml/zoo-animal-classification)
+  - Description: Data contains 101 zoo animals from 7 different class.
+  - Task details: Creating a model of classification and predict the class of new animals
+  - Libraries used: pandas, numpy, matplolib, seaborn, networkx, sklearn
+- #### Otodom propeties
+  - Data source: Scraped from Otodom.pl for Rzeszow (October 1)
+  - Description: Data contains various features of flats in Rzeszow like price, surface, heating, localization etc.
+  - Task details: Creating a model of regression to predict price of flats
+  - Libraries used: pandas,numpy, matplotlib, seaborn, plotly, geopy, sklearn, tensorflow
