@@ -16,4 +16,11 @@ This repository includes all my data science/data analyst projects. The data com
   - Data source: Scraped from Otodom.pl for Rzeszow (October 1)
   - Description: Data contains various features of flats in Rzeszow like price, surface, heating, localization etc.
   - Task details: Creating a model of regression to predict price of flats
-  - Libraries used: pandas,numpy, matplotlib, seaborn, plotly, geopy, sklearn, tensorflow
+  - Libraries used: BeautifulSoup,requests,pandas,numpy, matplotlib, seaborn, plotly, geopy, sklearn, tensorflow
+  
+## SQL:
+- #### US Baby Names
+  - Data source: (https://www.kaggle.com/kaggle/us-baby-names)
+  - Description: Data contains all names from 1880 to 2014 for USA on national and state level.
+  - Task details: Data analysis with queries in sql and visualizations in seaborn and plotly
+  - Libraries used: pandas,numpy, matplotlib, seaborn, plotly, BeautifulSoup, requests, selenium
