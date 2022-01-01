@@ -1,6 +1,8 @@
 # Portfolio 
 This repository includes all my data science/data analyst projects. The data come from kaggle.com or was obtained via web scraping.
 
+Projects with plotly visualizations can be opened by (https://nbviewer.org/)
+
 ## Python:
 - #### EDA Denver Crimes
   - Data source: (https://www.kaggle.com/paultimothymooney/denver-crime-data) (access: 8 October)
