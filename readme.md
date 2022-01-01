@@ -17,6 +17,11 @@ This repository includes all my data science/data analyst projects. The data com
   - Description: Data contains various features of flats in Rzeszow like price, surface, heating, localization etc.
   - Task details: Creating a model of regression to predict price of flats
   - Libraries used: BeautifulSoup,requests,pandas,numpy, matplotlib, seaborn, plotly, geopy, sklearn, tensorflow
+- #### Lending club [in progress]
+  - Data source: (https://www.kaggle.com/wordsforthewise/lending-club)
+  - Description: Dataset which has Lending Club loans from 2007 to 2018. Data contains various features like annual income, loan amount, interest rate etc.
+  - Task details: Creating a model of classification to predict if customer will pay a loan or not and clusterization
+  - Libraries used: pandas,numpy, matplotlib, seaborn, plotly, sklearn
   
 ## SQL:
 - #### US Baby Names
